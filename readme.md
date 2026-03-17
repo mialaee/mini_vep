@@ -24,7 +24,7 @@ The workflow was applied to:
 
 ```text
 .
-├── README.md
+├── readme.md
 ├── vep_annotate.py
 ├── data/
 │   ├── brca1_known.txt
