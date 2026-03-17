@@ -1,3 +1,1 @@
-# mini_vep
-
-zam is great
+# Could not upload Chr22 VCF due to size. Available here: https://jhub.climb.ac.uk/user/mlh82.workshopzi/files/shared-team/people/mia/project-zam/HG01868.chr22.vcf?_xsrf=2%7Ca279ef29%7Cd82082ff50b2f3422fea3de6e8412810%7C1773049260
