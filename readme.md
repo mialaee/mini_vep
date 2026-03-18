@@ -110,6 +110,12 @@ No third-party packages are required.
 
 **Example commands used in this project:**
 
+conda create -n vcf_env python=3.10
+
+
+conda activate vcf_env
+
+#
 To run the curated BRCA1 valdiation set:
 
 python3 vep_annotate.py --mode known --known brca1_known.txt --out brca1_validation.tsv
